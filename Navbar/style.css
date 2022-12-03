@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 170px;
+}
+.header{
+    background-color: bisque;
+    display: flex;
+}
